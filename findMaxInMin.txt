@@ -1,0 +1,10 @@
+function findMaxInMin(arr: number[], subsetLength: number) {
+  // Loop through the array and create a subset of the specified length and store it in the new array
+  // Loop until the end of the array and only if index is less than the length of the array minus the subset length
+
+  // Find the min values in every subsets and store them in an array
+
+  // Find the max value in the minValues array
+
+  // Return max value
+}
